@@ -1,5 +1,6 @@
 {
     "scripts": {
-        "build": "react build --output public"
+        "buildCommand": "npm run build",
+        "outputDirectory": "public"
     }
 }
